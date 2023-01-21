@@ -16,5 +16,4 @@ const CONFIG = {
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
     messDesc: 'Chúc mừng năm mới nhoa =)))',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://dangquang0101.github.io/Tang-ban-NGHG/'
 }
